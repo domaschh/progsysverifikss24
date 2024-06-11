@@ -7,6 +7,9 @@ B = bddvar('B')
 C = bddvar('C')
 D = bddvar('D')
 
+# Not A = ~A
+# Implication A => B = (~A | B)
+# A ^ B
 # Construct the BDD for A XOR B
 f = (A ^ B) & (B ^ C) ^ (C ^ D)
 
