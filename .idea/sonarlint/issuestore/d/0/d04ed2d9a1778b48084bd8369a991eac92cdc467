@@ -1,0 +1,9 @@
+
+dpython:S117"MRename this parameter "E" to match the regular expression ^[_a-z][a-z0-9_]*$.(œŒÈ¸
+dpython:S117"MRename this parameter "V" to match the regular expression ^[_a-z][a-z0-9_]*$.(œŒÈ¸
+lpython:S117‹"TRename this local variable "nDG" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆÉ¶¤
+ppython:S117¯"SRename this local variable "rE" to match the regular expression ^[_a-z][a-z0-9_]*$.(õäðÅûÿÿÿÿ
+epython:S117É"MRename this parameter "G" to match the regular expression ^[_a-z][a-z0-9_]*$.(“Ø‰—
+kpython:S1542É"RRename function "compute_SCCs" to match the regular expression ^[a-z_][a-z0-9_]*$.(“Ø‰—
+Upython:S1481ö"7Replace the unused local variable "v_next_it" with "_".(­Ïñ»ùÿÿÿÿ
+mpython:S3776É"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(“Ø‰—
